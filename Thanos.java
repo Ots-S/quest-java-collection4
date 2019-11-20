@@ -38,7 +38,7 @@ public class Thanos {
         party.put(vision, tulip);
         party.put(captainAmerica, lily);
         party.put(doctorStrange, violet);
-        party.put(BlackWidow, violet);
+        party.put(blackWidow, violet);
 
 
         // TODO 2 : Print if `begonia` is contained in the TreeMap
